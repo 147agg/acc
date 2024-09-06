@@ -3,3 +3,6 @@ grep
 tomato
 potato
 beef
+coffe
+juci
+
